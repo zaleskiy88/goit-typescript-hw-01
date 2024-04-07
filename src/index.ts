@@ -1,4 +1,4 @@
-import { concatenation } from "./concatenation";
+import { concatenation } from "./draft";
 
 const button = document.querySelector("button");
 const input = document.querySelector("input");
